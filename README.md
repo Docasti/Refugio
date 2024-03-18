@@ -65,6 +65,17 @@
 
 ![Portada Perfil de Linkedin Profesional Moderno Oscuro (7)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/38099168-a3b6-4fca-a1b2-ebd45db248b6)
 
+![Portada  (1)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/87ffe4df-f0ad-4c69-bf7b-6d51f2975097)
+<!-- YOUTUBE:START -->
+| ![Thumbnail](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/81a7f07e-023c-4e22-ab32-06ba7201d5a9) | [Presentación de nuestro MVP (C16-102-t-databi)](https://www.youtube.com/watch?v=ks3OsCC_buM) <br/> March 08, 2024 |
+| --- | --- |
+| ![Thumbnail](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/4cc3c399-165e-46c5-adc9-a4738e5ac20f) | [Visualización de nuestro dashboard en Power Bi (C16-102-t-databi)](https://app.powerbi.com/view?r=eyJrIjoiOTRjZjRkMGMtYWNmZC00MTM0LTgyMmMtN2EyZTY0NzVmNWM5IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9) <br/> March 08, 2024 |
+<!-- YOUTUBE:END -->
+
+<table> 
+   
+<tbody>
+
 <!-- Herramientas Usadas -->
 # <div align="center"><img src="https://media0.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"> Herramientas Usadas </div>
 En este proyecto, hemos utilizado las siguientes tecnologías:
@@ -87,30 +98,4 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
    - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
    - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
-<!--Storytellin-->
-
-# <div align="center">Storytelling</div>
-
-![Portada  (1)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/87ffe4df-f0ad-4c69-bf7b-6d51f2975097)
-
-<table>
-  <tbody>
-<!-- YOUTUBE:START --><tr><td><img width="140px" src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/81a7f07e-023c-4e22-ab32-06ba7201d5a9"></a></td><td><a href="https://www.youtube.com/watch?v=ks3OsCC_buM">Presentación de nuestro MVP (C16-102-t-databi)</a><br/>March 08, 2024</td></tr>
-<tr><td><img width="140px" src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/4cc3c399-165e-46c5-adc9-a4738e5ac20f"></a></td><td><a href="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjRkMGMtYWNmZC00MTM0LTgyMmMtN2EyZTY0NzVmNWM5IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9">Visualización de nuestro dashboard en Power Bi (C16-102-t-databi)</a><br/>March 08, 2024</td></tr>
-
-
-<!--
-**facu-cuello/facu-cuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
